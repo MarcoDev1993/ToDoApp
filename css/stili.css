@@ -1,0 +1,52 @@
+#form{
+    padding: 20px;
+    background-color:#AED6F1;
+
+}
+#h1{
+    padding: 20px;
+    background-color:#02DFE2  ;
+    margin-bottom: .0rem;
+}
+
+#div_visual{
+    padding: 20px;
+    display: none;
+    background-color: orange;
+    text-align: center;
+}
+
+th{
+    padding: 20px;
+}
+
+td{
+    padding: 35px;
+}
+
+input{
+    border: 20px;
+}
+
+label{
+    padding: 20px;
+}
+
+#datepicker{
+    margin-left: 50px;
+}
+
+#modifica{
+    display: none;
+    background-color:#E2D402;
+    padding: 20px;
+}
+
+table{
+    margin-left: auto;
+  margin-right: auto;
+}
+
+#contenitore{
+    text-align: center;
+}
